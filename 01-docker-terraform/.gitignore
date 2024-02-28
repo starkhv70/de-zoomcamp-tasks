@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+ny_taxi_postgres_data/
+*.csv
+data/
+*.tfstate
+*.tfstate.*
+**.terraform
+**.terraform.lock.*
+**key.json
+**logs/
+**.env
+**__pycache__/
+.history
+serving_dir
